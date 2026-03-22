@@ -1,2 +1,2 @@
 # -MAD-Project-MacroPlate
-A Capstone project for a fitness nutrution and meal prep app
+A Capstone project for a fitness, nutrition, and meal prep app
