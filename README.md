@@ -8,3 +8,4 @@ MacroPlate helps Ethiopian fitness enthusiasts and bodybuilders achieve their cu
 Project Links
 Figma Wireframes: https://www.figma.com/design/SoFjNCSNKNeD8IkeyNpEdb/macro-plate-wireframe?node-id=0-1&t=c5iwpT6Xc18OMRte-1
 Information Architecture & Workflows: https://www.figma.com/board/xfLUBCfW2eAJPF0szvaj1I/macro-plate?node-id=0-1&t=n15YKdaF1qKYp0dR-1
+Direct link to jira board: https://nebyiu.atlassian.net/jira/software/projects/SCRUM/boards/1
